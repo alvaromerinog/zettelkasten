@@ -1,0 +1,44 @@
+{
+  "collapse-filter": false,
+  "search": "path:zettelkasten",
+  "showTags": true,
+  "showAttachments": false,
+  "hideUnresolved": false,
+  "showOrphans": true,
+  "collapse-color-groups": true,
+  "colorGroups": [
+    {
+      "query": "path:zettelkasten",
+      "color": {
+        "a": 1,
+        "rgb": 14048348
+      }
+    },
+    {
+      "query": "path:referencias_bibliograficas",
+      "color": {
+        "a": 1,
+        "rgb": 14069084
+      }
+    },
+    {
+      "query": "path:templates",
+      "color": {
+        "a": 1,
+        "rgb": 11392604
+      }
+    }
+  ],
+  "collapse-display": true,
+  "showArrow": false,
+  "textFadeMultiplier": 0,
+  "nodeSizeMultiplier": 1,
+  "lineSizeMultiplier": 1,
+  "collapse-forces": false,
+  "centerStrength": 0.438888888888889,
+  "repelStrength": 18.3333333333333,
+  "linkStrength": 0.45,
+  "linkDistance": 150,
+  "scale": 1.0000000000000029,
+  "close": false
+}
