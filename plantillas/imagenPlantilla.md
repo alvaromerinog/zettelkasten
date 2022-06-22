@@ -1,9 +1,12 @@
 ---
+bibliography_id: TODO
 type: extract
 subtype: image
 date: <% tp.file.creation_date() %>
 ---
 # Imágen 🖼
+## Título
+<% tp.file.title %>
 ## Origen
 [[Fuente_bibliográfica]]
 ## Contenido

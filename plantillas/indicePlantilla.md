@@ -1,4 +1,5 @@
 ---
+bibliography_id: TODO
 type: extract
 subtype: index
 date: <% tp.file.creation_date() %>
