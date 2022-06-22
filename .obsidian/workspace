@@ -4,12 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "2a90475da71dbed1",
+        "id": "5fe511e4c12627f0",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "extractos/extracto.md",
+            "file": "plantillas/videoPlantilla.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "extractos/extracto.md",
+                "file": "plantillas/videoPlantilla.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -87,23 +87,25 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
-  "active": "2a90475da71dbed1",
+  "active": "5fe511e4c12627f0",
   "lastOpenFiles": [
-    "extractos/extracto.md",
-    "bibliografia/curso.md",
-    "bibliografia/Curso.md",
+    "plantillas/videoPlantilla.md",
+    "plantillas/referenciaPlantilla.md",
+    "plantillas/libroPlantilla.md",
+    "plantillas/indicePlantilla.md",
+    "plantillas/imagenPlantilla.md",
+    "plantillas/extractoPlantilla.md",
+    "plantillas/documentoPlantilla.md",
     "plantillas/cursoPlantilla.md",
-    "zettelkasten/proyecto.md",
-    "zettelkasten/widget.md",
-    "zettelkasten/dart.md",
-    "zettelkasten/card.md",
-    "zettelkasten/flutter.md",
-    "plantillas/indicePlantilla.md"
+    "plantillas/articuloPlantilla.md",
+    "plantillas/citaPlantilla.md"
   ]
 }

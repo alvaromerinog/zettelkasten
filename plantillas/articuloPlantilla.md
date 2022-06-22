@@ -5,19 +5,17 @@
 <%-* const firstSurnameAuthor = tp.user.utils(author); %>
 id: <% firstSurnameAuthor + "_" + keyword + "_" + year%>
 type: bibliography
-subtype: book
+subtype: article
 date: <% tp.file.creation_date() %>
 author: <% tp.file.author %>
 keyword: <%* tR += keyword %>
 status: <%tp.system.suggester(["Sin empezar", "En Progreso", " Completado"], ["Not Started", "In Progress", " Completed"])%>
 year: <%* tR += year %>
 ---
-# Libro 📗
-## Título
+# Artículo 👩‍🏫
+## Nombre
 <% tp.file.title %>
 ## Autor
 [Mi_autor](https://www.google.es)
-## Portada
-![Mi_Portada](https://c.tenor.com/6YAY7UTOu14AAAAC/awesome-you-are-awesome.gif)
-## Url
+## Enlace
 [<% tp.file.title %>](https://www.google.es)
