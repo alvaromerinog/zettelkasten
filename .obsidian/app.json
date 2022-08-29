@@ -1,5 +1,5 @@
 {
-  "legacyEditor": true,
+  "legacyEditor": false,
   "livePreview": false,
   "readableLineLength": false,
   "showLineNumber": true,
