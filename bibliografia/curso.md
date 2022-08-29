@@ -1,6 +1,6 @@
 ---
 id: cursoMolon
-name: Untitled
+name: curso
 type: bibliography
 subtype: course
 date: 2022-06-19 12:43
