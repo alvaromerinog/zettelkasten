@@ -8,7 +8,7 @@ const selectNameIndex = ids.indexOf(selectId);
 const selectName = names[selectNameIndex]; -%>
 bibliography_id: <%-* tR += selectId; %>
 type: extract
-subtype: reference
+subtype: document
 date: <% tp.file.creation_date() %>
 ---
 # Documento 📄
