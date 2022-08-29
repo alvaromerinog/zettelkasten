@@ -4,6 +4,7 @@
 <%-* const author = await tp.system.prompt("Autor"); %>
 <%-* const firstSurnameAuthor = tp.user.utils(author); %>
 id: <% firstSurnameAuthor + "_" + keyword + "_" + year%>
+name: <% tp.file.title %>
 type: bibliography
 subtype: video
 date: <% tp.file.creation_date() %>
